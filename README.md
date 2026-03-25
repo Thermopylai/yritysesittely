@@ -1,6 +1,6 @@
 # :tada: Yritysesittely
 
-![Node.js](http://img.shieds.io/badge/Node.js-green)
+![Node.js](http://img.shields.io/badge/Node.js-green)
 ![Express.js](http://img.shields.io/badge/Express.js-orange)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-5-blue)
