@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "image": "/images/lauri_tikkanen.jpg",
+        "name": "Lauri Tikkanen",
+        "position": "Toimitusjohtaja",
+        "email": "lauri.tikkanen@careeria.fi",
+        "phone": "+358 40 123 4567"
+    },
+    {
+        "id": 2,
+        "image": "/images/matti_meikalainen.jpg",
+        "name": "Matti Meikäläinen",
+        "position": "Myyntipäällikkö",
+        "email": "matti.meikalainen@careeria.fi",
+        "phone": "+358 40 765 4321"
+    },
+    {
+        "id": 3,
+        "image": "/images/anna_virtanen.jpg",
+        "name": "Anna Virtanen",
+        "position": "Markkinointipäällikkö",
+        "email": "anna.virtanen@careeria.fi",
+        "phone": "+358 40 987 6543"
+    },
+    {
+        "id": 4,
+        "image": "/images/jari_korhonen.jpg",
+        "name": "Jari Korhonen",
+        "position": "Tuotepäällikkö",
+        "email": "jari.korhonen@careeria.fi",
+        "phone": "+358 40 654 3210"
+    },
+    {
+        "id": 5,
+        "image": "/images/sari_lahtinen.jpg",
+        "name": "Sari Lahtinen",
+        "position": "HR-päällikkö",
+        "email": "sari.lahtinen@careeria.fi",
+        "phone": "+358 40 321 0987"
+    },
+    {
+        "id": 6,
+        "image": "/images/pekka_salminen.jpg",
+        "name": "Pekka Salminen",
+        "position": "IT-päällikkö",
+        "email": "pekka.salminen@careeria.fi",
+        "phone": "+358 40 123 9876"
+    },
+    {
+        "id": 7,
+        "image": "/images/laura_nieminen.jpg",
+        "name": "Laura Nieminen",
+        "position": "Asiakaspalvelupäällikkö",
+        "email": "laura.nieminen@careeria.fi",
+        "phone": "+358 40 987 1234"
+    },
+    {
+        "id": 8,
+        "image": "/images/mikko_hamalainen.jpg",
+        "name": "Mikko Hämäläinen",
+        "position": "Rahoituspäällikkö",
+        "email": "mikko.hamalainen@careeria.fi",
+        "phone": "+358 40 876 5432"
+    },
+    {
+        "id": 9,
+        "image": "/images/sanna_kallio.jpg",
+        "name": "Sanna Kallio",
+        "position": "Tuotantopäällikkö",
+        "email": "sanna.kallio@careeria.fi",
+        "phone": "+358 40 654 9870"
+    },
+    {
+        "id": 10,
+        "image": "/images/janne_lehtinen.jpg",
+        "name": "Janne Lehtinen",
+        "position": "Logistiikkapäällikkö",
+        "email": "janne.lehtinen@careeria.fi",
+        "phone": "+358 40 321 6549"
+    }
+]

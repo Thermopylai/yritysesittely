@@ -1,0 +1,18 @@
+{
+  "name": "yritysesittely",
+  "version": "1.0.0",
+  "description": "Tämä on Node.js ympäristössä suoritettava\r Express.js kirjastoa hyödyntävä web server, joka esittelee yrityksen.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "Lauri Tikkanen",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "dotenv": "^17.3.1",
+    "express": "^5.2.1"
+  }
+}
